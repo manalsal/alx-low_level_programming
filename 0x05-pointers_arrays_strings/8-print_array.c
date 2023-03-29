@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print-array - a function that prints n element of an array
+* print_array - a function that prints n element of an array
 * @a: array name
 * @n: is the number of element of the array to be printed
 * Return: a and n inputs
